@@ -1,0 +1,90 @@
+{
+  "開催地域周辺や日本の経済効果": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "雇用機会の増加": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "イノベーションや技術促進・発展": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "教育効果": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "観光業の発展": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "地域の活性化(地域振興やインフラ整備による生活の向上)": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "国際交流・外交・世界平和": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "日本の技術や文化、開催地域のアピール・イメージ向上": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "開催中止による日本の悪印象のデメリット": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "開催中止による経済的損失のデメリット": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "どこかの国がやらねばならず、そこそこ豊かな国で、前の日本開催から時期が開いているから。": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "イベントごとが好きだから": {
+    "Convincingness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "盛り上がる・楽しめる": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "国民全体の国民性が上がる。": {
+    "Convincingness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "大阪でもう一度万博を行うべき": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "太陽の塔のようなシンボルができるかも": {
+    "Convincingness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "日本で大阪万博が２度開催された実績を作れる": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "日本が直面する国際問題について世界に周知できる": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "日本は治安がよく万国博覧会開催国としてふさわしい": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "解決すべき問題の解決策を得られたり、問題に対して人々の関心を集めることができる": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "話題性": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "回答なし": {
+    "Convincingness": 0,
+    "Uniqueness": 0
+  }
+}

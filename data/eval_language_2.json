@@ -1,0 +1,142 @@
+{
+  "果物である・木に実る": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "栄養価が高い・体に良い": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "持ち運びが容易": {
+    "Similarity": 4.0,
+    "Uniqueness": 3.0
+  },
+  "調理や加工をせずに手軽に食べられる": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "甘い": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "表記": {
+    "Similarity": 4.0,
+    "Uniqueness": 3.0
+  },
+  "皮がある・皮を剥いて食べる": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.5
+  },
+  "加工しやすく，スイーツや多様な料理に利用することができる": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "世界的に広く栽培されており、日常的に入手可能で一般的である": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "朝食や間食として食べられることが多い": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "様々な品種がある": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "人気がある": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "食べ応えがある": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "動物の餌として用いられる": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "種がある": {
+    "Similarity": 2.0,
+    "Uniqueness": 2.0
+  },
+  "食用である・食べられる": {
+    "Similarity": 4.0,
+    "Uniqueness": 1.0
+  },
+  "朝食でも食べれるくらいさっぱりしている": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "ヨーグルトに合う": {
+    "Similarity": 4.0,
+    "Uniqueness": 3.0
+  },
+  "どちらも一部の宗教学者から聖書におけるアダムとイブの禁断の果実なのではないかという見解をされている": {
+    "Similarity": 1.0,
+    "Uniqueness": 3.0
+  },
+  "酢酸エチルに似たにおいがする": {
+    "Similarity": 2.0,
+    "Uniqueness": 3.0
+  },
+  "病害虫に対する対策が重要である": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "保存が容易": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "成長する場所": {
+    "Similarity": 1.0,
+    "Uniqueness": 2.0
+  },
+  "皮の色が鮮やか": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "色のイメージと強く結びついている": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "環境にやさしい": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "原色である": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "腐る": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "比較的安価である": {
+    "Similarity": 3.5,
+    "Uniqueness": 2.0
+  },
+  "香りが親しまれている": {
+    "Similarity": 2.0,
+    "Uniqueness": 2.0
+  },
+  "見た目が可愛い": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "適度な硬さを持っているため、必要時には武器としても用いることができる": {
+    "Similarity": 1.0,
+    "Uniqueness": 3.5
+  },
+  "果肉が黄色い": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "成熟する過程で色が変化する": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "回答なし": {
+    "Similarity": 0.0,
+    "Uniqueness": 0.0
+  }
+}

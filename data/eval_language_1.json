@@ -1,0 +1,62 @@
+{
+  "構造": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "材質・素材": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "デザイン・スタイルが多様": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "機能": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "用途・役割": {
+    "Similarity": 3.0,
+    "Uniqueness": 2.0
+  },
+  "使用する場所・状況": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "家具・人間が日常的に使う道具である": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "表記・漢字の特徴": {
+    "Similarity": 3.0,
+    "Uniqueness": 3.0
+  },
+  "ひらがなの総画数が同じ": {
+    "Similarity": 2.0,
+    "Uniqueness": 3.0
+  },
+  "消耗品である": {
+    "Similarity": 2.0,
+    "Uniqueness": 2.0
+  },
+  "安価なものから高価なものがある": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "部屋を装飾する": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "セット販売が多い点": {
+    "Similarity": 4.0,
+    "Uniqueness": 2.0
+  },
+  "物体・人工物": {
+    "Similarity": 4.0,
+    "Uniqueness": 3.0
+  },
+  "回答なし": {
+    "Similarity": 0,
+    "Uniqueness": 0
+  }
+}

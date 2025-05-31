@@ -1,0 +1,122 @@
+{
+  "経済的負担・費用対効果の懸念": {
+    "Convincingness": 4.0,
+    "Uniqueness": 1.0
+  },
+  "教育，福祉，医療などへの財政的影響": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "環境への悪影響": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "混雑や騒音、治安の悪化など開催地域への悪影響": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "テロや犯罪の危険性や安全性に関する懸念": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "利益の不均衡・社会的不平等": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "準備不足・スケジュールに対する懸念": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "感染症に関する不安": {
+    "Convincingness": 2.5,
+    "Uniqueness": 1.0
+  },
+  "技術の流出・不正利用": {
+    "Convincingness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "文化的衝突・文化への悪影響": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "人手不足": {
+    "Convincingness": 2.5,
+    "Uniqueness": 1.0
+  },
+  "開催後の処理に関する懸念": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "失敗によるリスク": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "運営や成功に対する不信": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "万博に対する関心の低下・国民の反感": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "労働環境の問題": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "協賛会社の通常業務への支障": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "シンボルマークが不快": {
+    "Convincingness": 1.0,
+    "Uniqueness": 4.0
+  },
+  "開催する意義の低下": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "政治家に対する不満": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "土地が必要になる": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "場所が不便": {
+    "Convincingness": 2.0,
+    "Uniqueness": 1.0
+  },
+  "不正な利益に対する懸念": {
+    "Convincingness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "工事関係の高騰": {
+    "Convincingness": 4.0,
+    "Uniqueness": 1.0
+  },
+  "万博開催の熱狂的なムードにより、現在起きている問題が隠されてしまう": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "開催による逆効果（日本の問題の露呈・イメージダウン）": {
+    "Convincingness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "国際情勢を顧みて日本が戦争に向けて更なる前進をする": {
+    "Convincingness": 1.0,
+    "Uniqueness": 4.0
+  },
+  "物価の高騰": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "過密": {
+    "Convincingness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "回答なし": {
+    "Convincingness": 0,
+    "Uniqueness": 0
+  }
+}

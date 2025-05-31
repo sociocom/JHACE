@@ -1,0 +1,150 @@
+{
+  "看板や標識を設置": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "減速するための工夫を道路に施す": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 3.0
+  },
+  "一時停止": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "速度制限の設定・見直し": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "減速して走行する": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "カーブの形状を改良": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 3.0
+  },
+  "路面を改良": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 3.0
+  },
+  "カーブの視認性を改善": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "一方通行にする": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 3.0
+  },
+  "交通量を制限": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "迂回路の建設": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "カーブを通らない・交通を禁止する": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 2.5
+  },
+  "ガードレールの改良などによって事故の規模を小さくする": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "事故の原因や周囲の状況を詳しく調査する": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.5
+  },
+  "監視・取締の強化": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.5
+  },
+  "SNSで策を募る": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "メディアや自動車のシステムでの注意喚起": {
+    "Effectiveness": 2.5,
+    "Uniqueness": 2.0
+  },
+  "ドライバーの教育・啓発": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "お祓いをする": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 4.0
+  },
+  "カーブ前に休憩所を設置": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "交通整理を行う": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "信号の設置などによる交通規制の強化": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "車線を増やす": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "道幅を広くする": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "警察に相談する": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 1.0
+  },
+  "事故が起きる場所の前に小さなカーブをつくる": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "動物注意の標識を設置するとともに、野生動物が飛び出してこないようにシェルター等を用意する": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.5
+  },
+  "交通事故防止をアナウンスする音声を車が通るたびに大音量で流す": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "周辺のアルコール類を提供する店にアルコールの販売を制限させることで、飲酒運転による事故を減らす": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "地域住民と連携": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "運転者を警戒させる": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 3.0
+  },
+  "歩行者の通行を禁止にする": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "近くに歩行者や車が通った場合はブザーを鳴らすようにする": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "道路の色分け：カーブ部分を他の部分と色を変えることで視覚的に強調し、ドライバーにカーブの存在をより認識させる": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 3.0
+  },
+  "事故が多発する区域に運転支援システムや自動車の安全技術の導入を促進し、運転者の安全意識を高める": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "自動運転にする": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "回答なし": {
+    "Effectiveness": 0.0,
+    "Uniqueness": 0.0
+  }
+}

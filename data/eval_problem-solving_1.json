@@ -1,0 +1,162 @@
+{
+  "全てのみかんを房や粒にしたり、切り分けるなど３等分して同じ個数ずつ配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 2.0
+  },
+  "全てのみかんを重さで３等分して配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 2.0
+  },
+  "全てのみかんを大きさ(体積)で３等分して配る": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 3.0
+  },
+  "全てのみかんを品質で３等分して配る": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "全てのみかんをジュースなどに加工して３等分して配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 4.0
+  },
+  "全てのみかんの配り方を相談して決める": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 1.0
+  },
+  "3個ずつ配り，残りの2個を房や粒に３等分して同じ個数ずつ配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 2.0
+  },
+  "3個ずつ配り，残りの2個を重さで３等分して配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 2.0
+  },
+  "3個ずつ配り，残りの2個を品質で３等分して配る": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "3個ずつ配り，残りの2個をジュースなどに加工して３等分して配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 3.0
+  },
+  "3個ずつ配り，残りの2個を相談して決める": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "3個ずつ配り，残りの2個は配らない": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "3個，4個，4個となるように配る": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 2.0
+  },
+  "3個，4個，4個となるように配り，3個の人には代わりとなる特典をあげる": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 3.0
+  },
+  "3個、3個、5個となるように配る": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 1.0
+  },
+  "3個，4個，4個となるようにジャンケンやゲームで決める": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "3個，4個，4個となるようにくじ引きや抽選でランダムに決める": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "3個，3個，5個となるようにジャンケンやゲームで決める": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "3個，3個，5個となるようにくじ引きや抽選でランダムに決める": {
+    "Effectiveness": 2.5,
+    "Uniqueness": 1.5
+  },
+  "ジャンケンやゲームで決める（3個，4個，4個となるとは限らない）": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "くじ引きや抽選でランダムに決める（3個，4個，4個となるとは限らない）": {
+    "Effectiveness": 1.5,
+    "Uniqueness": 2.5
+  },
+  "選ぶ順番を決めて、11個のみかんを順番に1個ずつ取る": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "１１個のミカンを市場で売却し、その売却代金を三等分する": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 4.0
+  },
+  "３個ずつ分配し、残り２つはほかの人間に売る。その売り上げを分配する。": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 3.0
+  },
+  "ミカンの必要度に応じて分配する": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 3.0
+  },
+  "1つ買い足して4個ずつ配る": {
+    "Effectiveness": 4.0,
+    "Uniqueness": 3.0
+  },
+  "多く食べられる人には多く、少ししか食べられない人には少なく分配する": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "特にみかんが好きな１名に１１個あげる": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 4.0
+  },
+  "特別みかんを欲しがっている人に5個渡して、残りを2人で等分する。": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 2.0
+  },
+  "私有地に11個のミカンを植えて木を育て、3の倍数の個数の実を収穫してから3人それぞれに同じ個数のミカンを渡す。": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 4.0
+  },
+  "年齢(誕生日)順に異なる数を配る": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 1.0
+  },
+  "多く食べた人にお金をもらう": {
+    "Effectiveness": 1.0,
+    "Uniqueness": 2.0
+  },
+  "1個ずつ3人が一緒にみかんを食べる": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "3個ずつ配り、残りの2個を3人で一緒に食べる": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "特定のルールで分配": {
+    "Effectiveness": 3.0,
+    "Uniqueness": 2.0
+  },
+  "ミカンの配布を一度に行うのではなく、数回に分けて配布する": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "ミカンの質やサイズに差をつける": {
+    "Effectiveness": 2.0,
+    "Uniqueness": 2.0
+  },
+  "数が合わない（０点）": {
+    "Effectiveness": 0,
+    "Uniqueness": 0
+  },
+  "回答なし": {
+    "Effectiveness": 0,
+    "Uniqueness": 0
+  },
+  "配布の合計数が不明・矛盾": {
+    "Effectiveness": 0,
+    "Uniqueness": 0
+  }
+}
