@@ -11,14 +11,14 @@ $`E_t`$はタスク$`t`$におけるenhancement scoreを表し，タスクのス
 
 収集した解答を公開します．
 
-# タスク
-## 知識タスク
-## 言語タスク
-## 問題解決タスク
-## ディベート
+## タスク
+### 知識タスク
+### 言語タスク
+### 問題解決タスク
+### ディベート
 
-# 文献情報
+## 文献情報
 [JHACE: Human-AI Collaborationの評価法の提案，及び，対人スキルの影響の調査](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q2-1.pdf)
 
-# ライセンス
+## ライセンス
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
